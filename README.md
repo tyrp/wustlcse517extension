@@ -19,6 +19,16 @@ There is a file called wustlcse517extension.crx in the repo.  You can drag this 
 
 Open up [chrome://extensions/](chrome://extensions/) and drag the file there to install.
 
+#### Instructions for use
+
+*   Click the extension icon
+
+*	Type in your name (case matters)
+
+*	Submit the form and your row will be highlighted in white
+
+Note:  Due to the random refreshes of the page you will currently have to reinput your name each time it refreshes.
+
 #### Let me know if you have any suggestions or ideas
 
 *   Feel free to submit a bug report, I will try and work on it when I have time.
