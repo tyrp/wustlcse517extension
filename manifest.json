@@ -1,0 +1,17 @@
+{
+	"name": "Machine Learning Name Finder",
+	"version": "0.1",
+	"permissions": [
+		"activeTab"
+ 	],
+ 	"background": {
+		"scripts": ["background.js"],
+		"persistent": false
+ 	},
+ 	"browser_action": {
+		"default_title": "Allows you to easily find your line in the matrix.",
+		"default_icon": "terminator.png",
+		"default_popup": "popup.html"
+ 	},
+ 	"manifest_version": 2
+ 	}
