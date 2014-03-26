@@ -17,7 +17,7 @@ You can find tons of resources for chrome extensions here: [http://developer.chr
 
 There is a file called wustlcse517extension.crx in the repo.  You can drag this file directly to chrome to install it.
 
-## Let me know if you have any suggestions or ideas
+#### Let me know if you have any suggestions or ideas
 
 *   Feel free to submit a bug report, I will try and work on it when I have time.
 
