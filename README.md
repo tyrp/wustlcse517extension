@@ -15,7 +15,9 @@ You can find tons of resources for chrome extensions here: [http://developer.chr
 
 ### Install the already packed extension I have provided.
 
-There is a file called wustlcse517extension.crx in the repo.  You can drag this file directly to chrome to install it.  Open up [chrome://extensions/](chrome://extensions/) and drag the file there to install.
+There is a file called wustlcse517extension.crx in the repo.  You can drag this file directly to chrome to install it.  
+
+Open up [chrome://extensions/](chrome://extensions/) and drag the file there to install.
 
 #### Let me know if you have any suggestions or ideas
 
