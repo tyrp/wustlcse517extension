@@ -1,12 +1,13 @@
 {
 	"name": "Machine Learning Name Finder",
-	"version": "0.1",
+	"version": "0.2",
 	"permissions": [
-		"activeTab"
+		"activeTab", "*://*.students.cec.wustl.edu/~cse517a/*"
  	],
  	"background": {
+		"matches": ["*://*.students.cec.wustl.edu/~cse517a/*"],
 		"scripts": ["background.js"],
-		"persistent": false
+		"persistent": true
  	},
  	"browser_action": {
 		"default_title": "Allows you to easily find your line in the matrix.",

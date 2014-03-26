@@ -6,7 +6,7 @@ window.addEventListener("load", function(evt) {
 		//var data = document.getElementById("name").value;
 		//alert(data);
 		chrome.extension.getBackgroundPage().getPageInfo(document.getElementById("name").value);
-		//window.close();
+		window.close();
 	});
 
 });
