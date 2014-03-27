@@ -6,14 +6,14 @@ This extension allows you to easily find your name in the autograder matrix.  I 
 
 There are two options to use the extension:
 
-### Pack the extension yourself from the sourcecode.
+### Pack the extension yourself from the sourcecode:
 
 Feel free to fork this repository and edit the code to suit your needs.  I did this rather quickly and will be editing it if I find any bugs.
 
 You can find tons of resources for chrome extensions here: [http://developer.chrome.com/extensions/getstarted](http://developer.chrome.com/extensions/getstarted)
 
 
-### Install the already packed extension I have provided.
+### Install the already packed extension I have provided:
 
 There is a file called wustlcse517extension.crx in the repo.  You can drag this file directly to chrome to install it.  
 
